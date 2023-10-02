@@ -23,6 +23,10 @@ This repository contains a simple Java application to test out the Maven build t
     [INFO] Finished at: 2023-09-17T14:39:53-07:00
     [INFO] ---------------------------------------------------------------
     ```
+- You can used the following command to run the applicaiton:
+    ```
+    java -jar java-maven-app-1.1.0-SNAPSHOT.jar 
+    ```
 
 ## Course
 
